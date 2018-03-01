@@ -1,0 +1,30 @@
+v0.1	2013/1/7	pattern version R134
+	-initial experimental version
+
+v0.3	2013/1/10	pattern version R135  
+	-bug fixes
+
+v0.31	2013/5/17	pattern version R149
+	-updated pattern to work with R149 client
+	-fixed a invalid pointer bug which could cause client to crash
+
+v0.4	2013/5/19	
+	-updated pattern searcher and exported an user friendly pattern search function
+
+v0.4	2013/5/21	
+	-added compatibility with abyss
+
+v0.41	2013/5/26
+	-fixed recvhook
+
+v0.43	2013/5/30
+	-misc. changes
+	-unvirtualize WriteToNetworkBuffer
+
+v0.44	2013/6/21
+	-fixed crashing issue when using with abyss on x64 OS
+
+v0.5	2013/9/17	pattern version R186CN
+	-major pattern update
+	-linked 3 functions to dll due to laziness
+	-final version
